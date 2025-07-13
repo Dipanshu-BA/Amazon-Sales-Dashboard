@@ -73,3 +73,7 @@ A dynamic and interactive dashboard built in Power BI to analyze and visualize c
 - DAX  
 - Data Modeling  
 ---
+
+## 📷 Dashboard Snapshots
+
+https://github.com/Dipanshu-BA/Amazon-Sales-Dashboard/blob/main/1.%20Executive%20Dashboard.png
